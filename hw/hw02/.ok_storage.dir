@@ -1,0 +1,6 @@
+'make_adder-correct', (0, 70)
+'product-correct', (512, 70)
+'factorial-correct', (1024, 70)
+'accumulate-correct', (1536, 70)
+'summation_using_accumulate-correct', (2048, 70)
+'product_using_accumulate-correct', (2560, 70)

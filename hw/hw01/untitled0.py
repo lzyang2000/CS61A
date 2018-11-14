@@ -1,0 +1,1 @@
+quine='print("quine="+repr(quine)+";eval(quine)")';eval(quine)

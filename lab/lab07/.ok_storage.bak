@@ -1,0 +1,7 @@
+'link_to_list-correct', (0, 70)
+'store_digits-correct', (512, 70)
+'cumulative_sum-correct', (1024, 70)
+'in_order_traversal-correct', (1536, 70)
+'is_bst-correct', (2048, 70)
+'Link-correct', (2560, 70)
+'Trees-correct', (3072, 70)

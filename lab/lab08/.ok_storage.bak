@@ -1,0 +1,4 @@
+'deep_len-correct', (0, 70)
+'subseqs-correct', (512, 70)
+'inc_subseqs-correct', (1024, 70)
+'Orders of Growth-correct', (1536, 70)
